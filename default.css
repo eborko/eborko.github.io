@@ -1,0 +1,24 @@
+body
+{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
+
+h1
+{
+	font-size: 3em;
+}
+
+p
+{
+	font-size: 1em;
+}
+
+header p
+{
+	font-size: 1.25em;
+}
+
+h2
+{
+	font-size: 2em;
+}
